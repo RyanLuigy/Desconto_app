@@ -1,4 +1,4 @@
-from src.models.pedido import Pedido
+from src_antigo.models.pedido import Pedido
 
 class PedidoService:
     """Classe de serviço para lidar com a lógica de negócios relacionada a pedidos."""
