@@ -1,4 +1,3 @@
-
 import abc
 
 class IDesconto(abc.ABC):
